@@ -1,0 +1,8 @@
+.all_habits {
+    width: 554px;
+    height: 535px;
+    background-color: white;
+    border-radius: 30px 0 0 0;
+    color: black;
+    border-bottom: 5px solid #ECECEC;
+}
