@@ -1,0 +1,8 @@
+.title{
+    padding-top: 50px;
+}
+.title span{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: bold;
+}

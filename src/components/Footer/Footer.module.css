@@ -1,0 +1,12 @@
+.footer{
+    height: 74px;
+    background-color: white;
+    width: 100%;
+}
+.rl{
+    font-weight: bold;
+    font-size: 14px;
+    color: #737373;
+    padding-left: 195px;
+    padding-top: 25px;
+}
