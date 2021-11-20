@@ -1,9 +1,14 @@
 import React from 'react'
-import HabitPage from "./HabitPage/HabitPage";
+import classes from "./Header.module.css";
+import Logo from "./Logo/Logo";
+import NavigationButtons from "./NavigationButtons/NavigationButtons";
 
 const Header = (props) => {
     return (
-        <HabitPage />
+        <div className={ classes.header }>
+            <Logo />
+            <NavigationButtons />
+        </div>
     )
 }
 
