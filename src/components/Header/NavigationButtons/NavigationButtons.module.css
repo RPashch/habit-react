@@ -1,0 +1,14 @@
+.functions{
+    margin-left: 784px;
+}
+.functions span{
+    font-size: 14px;
+    line-height: 22px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.functions span:last-child{
+    margin-left: 35px;
+    text-decoration: underline;
+    color: #DDF4FF;
+}
