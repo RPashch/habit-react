@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a6ea27-8b7c-46fd-a1c2-0b06a176230a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/CalendarPage/CalendarPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignInPage/SignInPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpPage/SignUpPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/CalendarPage/CalendarPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/AllHabits.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/AllHabits.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/AllHabitsTitle/AllHabitsTitle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/AllHabitsTitle/AllHabitsTitle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/List/List.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/AllHabits/List/List.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/Blocks/Blocks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/Blocks/Blocks.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/Content.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Content/Content.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/HabitPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/HabitPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Title/Title.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/Title/Title.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignInPage/SignInPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpPage/SignUpPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jj/habit-react" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -130,7 +91,8 @@
       <updated>1636899377858</updated>
       <workItem from="1636899382961" duration="4243000" />
       <workItem from="1637053134531" duration="11212000" />
-      <workItem from="1637329465485" duration="5048000" />
+      <workItem from="1637329465485" duration="11107000" />
+      <workItem from="1637700681123" duration="1850000" />
     </task>
     <servers />
   </component>
