@@ -1,5 +1,5 @@
 import {Route, Routes} from 'react-router-dom';
-import NotFoundPage from "./components/Main/NotFounPage/NotFoundPage";
+import NotFoundPage from "./components/Main/NotFoundPage/NotFoundPage";
 import CalendarPage from "./components/Main/CalendarPage/CalendarPage";
 import HabitPage from "./components/Main/HabitPage/HabitPage";
 import SignUpSignInPages from "./components/Main/Sign-upSign-inPages/SignUpSignInPages";
@@ -12,7 +12,7 @@ const AppRoutes = () => (
         <Route path="/" element={<App/>}>
             <Route path="calendar" element={<CalendarPage/>}/>
             <Route path="habits" element={<HabitPage/>}/>
-            <Route path="profile" element={<SignUpSignInPages/>}/>
+            <Route path="signpage" element={<SignUpSignInPages/>}/>
             <Route path="welcome" element={<WelcomePage/>}/>
         </Route>
         <Route path="*" element={<NotFoundPage/>}/>
