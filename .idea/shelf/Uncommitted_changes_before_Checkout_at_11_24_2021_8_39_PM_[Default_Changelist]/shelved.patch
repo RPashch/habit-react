@@ -1,0 +1,253 @@
+Index: src/App.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import './App.css';\r\nimport React from \"react\";\r\nimport {Outlet} from \"react-router-dom\";\r\n\r\n\r\nexport default function App() {\r\n    return (\r\n        <div>\r\n            <h1>Some header text!</h1>\r\n            <Outlet/>\r\n        </div>\r\n    );\r\n}\r\n/*\r\nimport React from 'react'\r\nimport './App.css';\r\nimport Header from \"./components/Header/Header\";\r\nimport Main from \"./components/Main/Main\";\r\nimport Footer from \"./components/Footer/Footer\";\r\n\r\nconst App = (props) => {\r\n    return(\r\n        <div className={'app-wrapper'}>\r\n            <Header />\r\n            <Main />\r\n            <Footer />\r\n        </div>\r\n    )\r\n}\r\nexport default App;\r\n */\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/App.js b/src/App.js
+--- a/src/App.js	
++++ b/src/App.js	
+@@ -1,31 +1,16 @@
+ import './App.css';
+ import React from "react";
+ import {Outlet} from "react-router-dom";
+-
+-
+-export default function App() {
+-    return (
+-        <div>
+-            <h1>Some header text!</h1>
+-            <Outlet/>
+-        </div>
+-    );
+-}
+-/*
+-import React from 'react'
+-import './App.css';
+ import Header from "./components/Header/Header";
+-import Main from "./components/Main/Main";
+ import Footer from "./components/Footer/Footer";
+ 
+-const App = (props) => {
+-    return(
+-        <div className={'app-wrapper'}>
+-            <Header />
+-            <Main />
+-            <Footer />
++
++export default function App() {
++    return (
++        <div>
++            <Header/>
++            <Outlet/>
++            <Footer/>
+         </div>
+-    )
++    );
+ }
+-export default App;
+- */
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"59a6ea27-8b7c-46fd-a1c2-0b06a176230a\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeStyleSettingsInfer\">\r\n    <option name=\"done\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectCodeStyleSettingsMigration\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"20ufQUgfSrjobKOqHi0JsSTonAv\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../jj/habit-react\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Dascha\\Documents\\react\\habit-react\\src\\components\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.start\">\r\n    <configuration default=\"true\" type=\"ArquillianTestNG\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"index.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/src/index.js\" working-dir=\"$PROJECT_DIR$/src\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.start\" />\r\n        <item itemvalue=\"Node.js.index.js\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"59a6ea27-8b7c-46fd-a1c2-0b06a176230a\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1636899377858</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1636899377858</updated>\r\n      <workItem from=\"1636899382961\" duration=\"4243000\" />\r\n      <workItem from=\"1637053134531\" duration=\"11212000\" />\r\n      <workItem from=\"1637329465485\" duration=\"11107000\" />\r\n      <workItem from=\"1637700681123\" duration=\"3396000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -6,6 +6,22 @@
+   <component name="ChangeListManager">
+     <list default="true" id="59a6ea27-8b7c-46fd-a1c2-0b06a176230a" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/AppRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppRoutes.js" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/CalendarPage/CalendarPage.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.module.css" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/NavigationButtons/NavigationButtons.jsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/NavigationButtons/NavigationButtons.module.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignInPage/SignInPage.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpPage/SignUpPage.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Main/CalendarPage/CalendarPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/CalendarPage/CalendarPage.jsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/Profile.js" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -23,6 +39,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectCodeStyleSettingsMigration">
+@@ -38,7 +59,7 @@
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jj/habit-react" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+     <property name="nodejs_package_manager_path" value="npm" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+@@ -46,6 +67,9 @@
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="D:\Dascha\Documents\react\habit-react\src\components" />
+     </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="D:\Projects\habit-react\src\components\Header" />
++    </key>
+   </component>
+   <component name="RunManager" selected="npm.start">
+     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+@@ -91,8 +115,7 @@
+       <updated>1636899377858</updated>
+       <workItem from="1636899382961" duration="4243000" />
+       <workItem from="1637053134531" duration="11212000" />
+-      <workItem from="1637329465485" duration="11107000" />
+-      <workItem from="1637700681123" duration="3396000" />
++      <workItem from="1637329465485" duration="5048000" />
+     </task>
+     <servers />
+   </component>
+@@ -104,11 +127,27 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/DariaSkl" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="added .idea folder to git ignore" />
++    <option name="LAST_COMMIT_MESSAGE" value="added .idea folder to git ignore" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/AppRoutes.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import {Route, Routes} from 'react-router-dom';\r\nimport Home from \"./components/Home\";\r\nimport Profile from \"./components/Profile\";\r\nimport NotFoundPage from \"./components/NotFoundPage\";\r\nimport React from \"react\";\r\nimport App from \"./App\";\r\n\r\nconst AppRoutes = () => (\r\n    <Routes>\r\n        <Route path=\"/\" element={<App/>}>\r\n            <Route path=\"home\" element={<Home/>}/>\r\n            <Route path=\"profile\" element={<Profile/>}/>\r\n        </Route>\r\n        <Route path=\"*\" element={<NotFoundPage/>}/>\r\n    </Routes>\r\n);\r\n\r\nexport default AppRoutes;
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/AppRoutes.js b/src/AppRoutes.js
+--- a/src/AppRoutes.js	
++++ b/src/AppRoutes.js	
+@@ -1,15 +1,17 @@
+ import {Route, Routes} from 'react-router-dom';
+-import Home from "./components/Home";
+-import Profile from "./components/Profile";
+ import NotFoundPage from "./components/NotFoundPage";
+ import React from "react";
+ import App from "./App";
++import CalendarPage from "./components/Main/CalendarPage/CalendarPage";
++import HabitPage from "./components/Main/HabitPage/HabitPage";
++import SignUpSignInPages from "./components/Main/Sign-upSign-inPages/SignUpSignInPages";
+ 
+ const AppRoutes = () => (
+     <Routes>
+         <Route path="/" element={<App/>}>
+-            <Route path="home" element={<Home/>}/>
+-            <Route path="profile" element={<Profile/>}/>
++            <Route path="calendar" element={<CalendarPage/>}/>
++            <Route path="habits" element={<HabitPage/>}/>
++            <Route path="login" element={<SignUpSignInPages/>}/>
+         </Route>
+         <Route path="*" element={<NotFoundPage/>}/>
+     </Routes>
+Index: src/components/Main/CalendarPage/CalendarPage.jsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React from 'react'\r\n\r\n\r\nconst CalendarPage = (props) => {\r\n    return (\r\n        <div>\r\n            Welcome Page\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default CalendarPage;
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Main/CalendarPage/CalendarPage.jsx b/src/components/Main/CalendarPage/CalendarPage.jsx
+--- a/src/components/Main/CalendarPage/CalendarPage.jsx	
++++ b/src/components/Main/CalendarPage/CalendarPage.jsx	
+@@ -4,7 +4,7 @@
+ const CalendarPage = (props) => {
+     return (
+         <div>
+-            Welcome Page
++            Calendar Page
+         </div>
+     );
+ }
+Index: src/components/Header/Header.jsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React from 'react'\r\nimport HabitPage from \"./HabitPage/HabitPage\";\r\n\r\nconst Header = (props) => {\r\n    return (\r\n        <HabitPage />\r\n    )\r\n}\r\n\r\nexport default Header;
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Header/Header.jsx b/src/components/Header/Header.jsx
+--- a/src/components/Header/Header.jsx	
++++ b/src/components/Header/Header.jsx	
+@@ -1,9 +1,14 @@
+ import React from 'react'
+-import HabitPage from "./HabitPage/HabitPage";
++import classes from "./Header.module.css";
++import Logo from "./Logo/Logo";
++import NavigationButtons from "./NavigationButtons/NavigationButtons";
+ 
+ const Header = (props) => {
+     return (
+-        <HabitPage />
++        <div className={ classes.header }>
++            <Logo />
++            <NavigationButtons />
++        </div>
+     )
+ }
+ 
+Index: src/components/Header/Header.module.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Header/Header.module.css b/src/components/Header/Header.module.css
+--- a/src/components/Header/Header.module.css	
++++ b/src/components/Header/Header.module.css	
+@@ -1,0 +1,5 @@
++.header{
++    display: flex;
++    flex-direction: row;
++    padding-top: 30px;
++}
+\ No newline at end of file
+diff --git a/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx b/src/components/Header/NavigationButtons/NavigationButtons.jsx
+rename from src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx
+rename to src/components/Header/NavigationButtons/NavigationButtons.jsx
+diff --git a/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css b/src/components/Header/NavigationButtons/NavigationButtons.module.css
+rename from src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css
+rename to src/components/Header/NavigationButtons/NavigationButtons.module.css

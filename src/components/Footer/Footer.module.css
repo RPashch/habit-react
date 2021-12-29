@@ -2,6 +2,7 @@
     height: 74px;
     background-color: white;
     width: 100%;
+    bottom: 0;
 }
 .rl{
     font-weight: bold;

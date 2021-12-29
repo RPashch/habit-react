@@ -1,18 +1,18 @@
-import './App.css';
-import React from "react";
-import {Outlet} from "react-router-dom";
-
-
-export default function App() {
-    return (
-        <div>
-            <h1>Some header text!</h1>
-            <Outlet/>
-        </div>
-    );
-}
-/*
+// import './App.css';
+// import React from "react";
+// import {Outlet} from "react-router-dom";
+//
+//
+// export default function App() {
+//     return (
+//         <div>
+//             <h1>Some header text!</h1>
+//             <Outlet/>
+//         </div>
+//     );
+// }
 import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import Header from "./components/Header/Header";
 import Main from "./components/Main/Main";
@@ -28,4 +28,4 @@ const App = (props) => {
     )
 }
 export default App;
- */
+

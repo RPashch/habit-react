@@ -6,8 +6,8 @@ import NavigationButtons from "./NavigationButtons/NavigationButtons";
 const HabitPage = (props) => {
     return (
         <div className={ classes.header }>
-            <Logo />
-            <NavigationButtons />
+            <Logo/>
+            <NavigationButtons/>
         </div>
     )
 }
