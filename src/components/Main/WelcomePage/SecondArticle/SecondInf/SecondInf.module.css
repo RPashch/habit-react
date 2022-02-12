@@ -1,0 +1,49 @@
+.secondInf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text3 {
+    position: static;
+    width: 137px;
+    height: 24px;
+    left: 277px;
+    top: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #8D5CF6;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px 0;
+}
+
+.text4 {
+    position: static;
+    width: 486px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 0;
+}
+
+.text5 {
+    width: 591px;
+    height: 20px;
+    left: 50px;
+    top: 94px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px 0;
+}
