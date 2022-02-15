@@ -5,28 +5,32 @@ class UserService {
 
     async getUserByUserName(username) {
         const response = await fetch(url + "/" + username);
-        return response.json();
+        return await response.json();
     }
 
     async addUser(data) {
         const response = await fetch(url, {
             method: 'POST',
-            // body: ___ --- FIXME: в соответствуещем методе в API в body ожидается объект класса User
+            headers:
+                {'Content-Type': 'application/json;charset=utf-8'},
+            body: JSON.stringify(data)
         });
-        return response.json();
+        return await response.json();
     }
 
-    async updateUserDataById(id) {
-        const response = await fetch(url + "/update/" + id, {
+    async updateUserDataById(data, id) {
+        const response = await fetch(url + "/update?idUser=" + id, {
             method: 'PUT',
-            // body: ___ --- FIXME: в соответствуещем методе в API в body ожидается объект класса User
+            headers:
+                {'Content-Type': 'application/json;charset=utf-8'},
+            body: JSON.stringify(data)
         });
-        return response.json();
+        return await response.json();
     }
 
     async getUserHabitsById(id) {
         const response = await fetch(url + "/habits/" + id);
-        return response.json();
+        return await response.json();
     }
 }
 

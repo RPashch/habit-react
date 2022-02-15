@@ -5,17 +5,17 @@ class CategoryService {
 
     async getAllCategories() {
         const response = await fetch(url + "/all");
-        return response.json();
+        return await response.json();
     }
 
     async getTopCategories() {
         const response = await fetch(url + "/top");
-        return response.json();
+        return await response.json();
     }
 
     async findCategoryById(id) {
         const response = await fetch(url + "/" + id);
-        return response.json();
+        return await response.json();
     }
 }
 
