@@ -1,8 +1,8 @@
 import React from 'react'
-import classes from './Text2.module.css'
+import classes from './SignUpText2.module.css'
 
 
-const Text2 = (props) => {
+const SignUpText2 = (props) => {
     return (
         <div className={ classes.text2 }>
             You are welcome! Register your account.
@@ -11,4 +11,4 @@ const Text2 = (props) => {
     )
 }
 
-export default Text2
+export default SignUpText2;

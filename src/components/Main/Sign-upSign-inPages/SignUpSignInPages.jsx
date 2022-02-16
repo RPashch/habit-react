@@ -1,15 +1,20 @@
 import React from 'react'
-import SignInPage from "./SignInPage/SignInPage";
-import SignUpPage from "./SignUpPage/SignUpPage";
+import classes from './SignUpSignInPages.module.css'
+import TextAndForm from './TextAndForm/TextAndForm'
+import img1 from '../Photos/Photo.png'
+
 
 
 const SignUpSignInPages = (props) => {
     return (
-        <div>
-            <SignInPage />
-            <SignUpPage />
+        <div className={ classes.main }>
+            <TextAndForm />
+            <div className={ classes.photo }>
+                <img src={img1} alt={''}/>
+            </div>
         </div>
-    );
+    )
 }
 
 export default SignUpSignInPages;
+

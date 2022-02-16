@@ -1,10 +1,11 @@
 import React from 'react'
 import classes from './Logo.module.css'
+import {NavLink} from 'react-router-dom'
 
 const Logo = () => {
     return(
         <div className={ classes.logo }>
-            <a href={ '#' }><span>Habit</span></a>
+            <NavLink to={'/'}><span>Habit</span></NavLink>
         </div>
     )
 }

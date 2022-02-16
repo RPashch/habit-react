@@ -1,8 +1,9 @@
 import React from 'react'
-import classes from './Form.module.css'
+import classes from './SignInForm.module.css'
+import {NavLink} from 'react-router-dom'
 
 
-const Form = (props) => {
+const SignInForm = (props) => {
     return (
         <div className={ classes.form }>
             <form>
@@ -15,15 +16,15 @@ const Form = (props) => {
                     <label>Password</label>
                 </div>
                 <div className={ classes.forgot_password }>
-                    <a href={ '#' }>Forgot password?</a>
+                    <NavLink to={'/'}>Forgot password?</NavLink>
                 </div>
                 <div className={ classes.button_wrapper }>
                     <input type="submit" className={ classes.submit } value="Sign in"/>
-                    <a href={ "#" } className={ classes.button }><input type="button" value="Sign up"/></a>
+                    <NavLink to={'/signPages/SignUp'} className={ classes.button }><input type="button" value="Sign up"/></NavLink>
                 </div>
             </form>
         </div>
     )
 }
 
-export default Form
+export default SignInForm;

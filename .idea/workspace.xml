@@ -5,87 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a6ea27-8b7c-46fd-a1c2-0b06a176230a" name="Default Changelist" comment="added .idea folder to git ignore">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_39_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_39_PM__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_46_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_46_PM_[Default_Changelist]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_46_PM__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_24_2021_8_10_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_24_2021_8_10_PM_[Default_Changelist]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_24_2021_8_10_PM__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/SignInPage/SignInPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/SignInPage/SignInPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/SignUpPage/SignUpPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/SignUpPage/SignUpPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/SigninSignup/SigninSignup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/SigninSignup/SigninSignup.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Photos/Photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Photos/bag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Photos/book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Photos/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Photos/man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/SignInPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/SignInPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Form/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Form/Form.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text1/Text1.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text1/Text1.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text2/Text2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text2/Text2.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/TextAndForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/TextAndForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/SignUpPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/SignUpPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Form/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Form/Form.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text1/Text1.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text1/Text1.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text2/Text2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text2/Text2.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/TextAndForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/TextAndForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Cloud/Cloud.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Cloud/Cloud.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/FirstArticle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/FirstArticle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondArticle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondArticle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondInf/SecondInf.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondInf/SecondInf.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/FirstTarget/FirstTarget.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/FirstTarget/FirstTarget.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/SecondTarget/SecondTarget.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/SecondTarget/SecondTarget.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/Targets.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/Targets.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/ThirdArticle/ThirdArticle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/ThirdArticle/ThirdArticle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignInForm/SignInForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignInForm/SignInForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignUpForm/SignUpForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignUpForm/SignUpForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text1/Text1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text1/Text1.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignInText2/SignInText2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignInText2/SignInText2.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignUpText2/SignUpText2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignUpText2/SignUpText2.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/Text2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/TextAndForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/TextAndForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_39_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_39_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_46_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_24_2021_8_46_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_24_2021_8_10_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_24_2021_8_10_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/CalendarPage/CalendarPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/CalendarPage/CalendarPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HabitPage/NavigationButtons/NavigationButtons.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/Logo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignInPage/SignInPage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpPage/SignUpPage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/HabitPage/HabitPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/HabitPage/HabitPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/SignInPage/SignInPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/SignInPage/SignInPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/SignUpPage/SignUpPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/SignUpPage/SignUpPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/WelcomePage/SigninSignup/SigninSignup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/SigninSignup/SigninSignup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignInPage/SignInPage.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpPage/SignUpPage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/SignInPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/SignInPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Form/Form.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Form/Form.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text1/Text1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text1/Text1.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text2/Text2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text2/Text2.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/TextAndForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/TextAndForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/SignUpPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/SignUpPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Form/Form.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Form/Form.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text1/Text1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text1/Text1.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text2/Text2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text2/Text2.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/TextAndForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/TextAndForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,32 +92,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/components/Main/HabitPage/Content/Blocks/Blocks.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/TextAndForm.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Cloud/Cloud.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/SecondTarget/SecondTarget.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Text1/Text1.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignUpPage/SignUpPage.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/Main.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/Form/Form.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/FirstTarget/FirstTarget.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignInPage/SignInPage.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignUpPage/TextAndForm/TextAndForm.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Header/Header.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/ThirdArticle/ThirdArticle.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondArticle.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text2/Text2.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Header/SignInPage/SignInPage.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/FirstArticle.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/Targets.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Text1/Text1.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/Sign-upSign-inPages/SignUpSignInPages.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignUpText2/SignUpText2.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignInForm/SignInForm.jsx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/components/Header/WelcomePage/SigninSignup/SigninSignup.jsx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/components/Main/SignInPage/TextAndForm/Form/Form.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/ThirdArticle/ThirdArticle.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Cloud/Cloud.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/Inform/Inform.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/FirstArticle/FirstArticle.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/HabitPage/Content/Blocks/Blocks.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/SignUpSignInPages.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/SignInText2/SignInText2.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondArticle.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/HabitPage/HabitPage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Text2/Text2.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/SignUpForm/SignUpForm.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Main.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/FirstTarget/FirstTarget.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages/TextAndForm/Form/Form.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/CalendarPage/CalendarPage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/Header.jsx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/SecondInf/SecondInf.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/WelcomePage/WelcomePage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/SecondTarget/SecondTarget.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/WelcomePage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Main/WelcomePage/SecondArticle/Targets/Targets.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -152,7 +133,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Main/Photos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Main/Sign-upSign-inPages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -160,6 +141,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dascha\Documents\react\project\habit-react\src\components\Main\Sign-upSign-inPages" />
       <recent name="D:\Dascha\Documents\react\habit-react\src\components\Main\Photos" />
       <recent name="D:\Dascha\Documents\react\habit-react\src\components\photos" />
       <recent name="D:\Dascha\Documents\react\habit-react\src\components" />
@@ -222,6 +204,9 @@
       <workItem from="1640516886804" duration="13373000" />
       <workItem from="1640647709507" duration="1990000" />
       <workItem from="1640716407493" duration="13377000" />
+      <workItem from="1644676238441" duration="32273000" />
+      <workItem from="1644817368554" duration="1487000" />
+      <workItem from="1644948933999" duration="4414000" />
     </task>
     <servers />
   </component>

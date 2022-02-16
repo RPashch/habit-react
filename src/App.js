@@ -19,11 +19,11 @@ import Main from "./components/Main/Main";
 import Footer from "./components/Footer/Footer";
 
 const App = (props) => {
-    return(
-        <div className={'app-wrapper'}>
-            <Header />
-            <Main />
-            <Footer />
+    return (
+        <div className={ 'app-wrapper' }>
+            <Header/>
+            <Main/>
+            <Footer/>
         </div>
     )
 }

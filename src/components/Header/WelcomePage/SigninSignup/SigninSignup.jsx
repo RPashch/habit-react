@@ -1,11 +1,12 @@
 import React from 'react'
 import classes from './SigninSignup.module.css'
+import {NavLink} from 'react-router-dom'
 
 const SigninSignup = (props) => {
     return (
         <div className={ classes.signUpSignIn }>
-            <a href={ "#" } className={ classes.signIn}><input type="button" value="Sign in"/></a>
-            <a href={ "#" } className={ classes.singUp }><input type='button' value="Sign up"/></a>
+            <NavLink to={'/signPages/SignIn'} className={ classes.signIn}><input type="button" value="Sign in"/></NavLink>
+            <NavLink to={'/signPages/SignUp'} className={ classes.singUp }><input type='button' value="Sign up"/></NavLink>
         </div>
 
     )
